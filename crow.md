@@ -1,4 +1,4 @@
-Crow, a StatusNet client
+Crow
 
 [**crow**](https://github.com/bijanebrahimi/crow) is a StatusNet microblogging client. i decided to create [another client](http://federation.skilledtests.com/Statusnet_clients.html) just because i needed one which can be easy to contribute to and fast to grow and lots of crazy features. i choosed `HTML` and `javascript` for it's user interface since it's very flexible and `python` for a small web server which acts as a proxy between the user interface and statusnet federated server. currently it lacks the program to run the interface independently (maybe webkit) and needs to be run on a web browser like an web application. current version is 0.0.2 which is still an alpha version :) use it at your own risk
 
